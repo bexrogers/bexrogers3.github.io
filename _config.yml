@@ -20,7 +20,7 @@ title                    : "Becca Rogers"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Becca Rogers"
-description              : "Data Science and SEI Portfolio"
+description              : "Career Consultant"
 url                      : "https://bexrogers.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "bexrogers.github.io"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Becca Rogers"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science and SEI Portfolio"
+  bio              : "Career Consultant"
   location         : "Washington, D.C."
   email            :
   links:
